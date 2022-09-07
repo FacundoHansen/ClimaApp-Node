@@ -14,6 +14,6 @@ node index
 
 # Nota:
 
-[Node de cero a experto](https://www.linkedin.com/in/facundohansen/)
+[Mi Linkedin](https://www.linkedin.com/in/facundohansen/)
 
 
